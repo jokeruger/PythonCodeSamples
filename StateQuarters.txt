@@ -1,0 +1,51 @@
+State,Issue Date,Statehood Date
+Alabama,17-Mar-03,14-Dec-1819
+Alaska,25-Aug-08,3-Jan-1959
+Arizona,16-Jun-08,14-Feb-1912
+Arkansas,20-Oct-03,15-Jun-1836
+California,31-Jan-05,9-Sep-1850
+Colorado,14-Jun-06,1-Aug-1876
+Connecticut,12-Oct-99,9-Jan-1788
+Delaware,4-Jan-99,7-Dec-1787
+Florida,29-Mar-04,3-Mar-1845
+Georgia,19-Jul-99,2-Jan-1788
+Hawaii,3-Nov-08,21-Aug-1959
+Idaho,4-Jun-07,3-Jul-1890
+Illinois,2-Jan-03,3-Dec-1818
+Indiana,2-Aug-02,11-Dec-1816
+Iowa,30-Aug-04,28-Dec-1846
+Kansas,29-Aug-05,29-Jan-1861
+Kentucky,15-Oct-01,1-Jun-1792
+Louisiana,20-May-02,30-Apr-1812
+Maine,2-Jun-03,15-Mar-1820
+Maryland,13-Mar-00,28-Apr-1788
+Massachusetts,3-Jan-00,6-Feb-1788
+Michigan,26-Jan-04,26-Jan-1837
+Minnesota,4-Apr-05,11-May-1858
+Mississippi,15-Oct-02,10-Dec-1817
+Missouri,4-Aug-03,10-Aug-1821
+Montana,29-Jan-07,8-Nov-1889
+Nebraska,3-Apr-06,1-Mar-1867
+Nevada,30-Jan-06,31-Oct-1864
+New Hampshire,7-Aug-00,21-Jun-1788
+New Jersey,17-May-99,18-Dec-1787
+New Mexico,7-Apr-08,6-Jan-1912
+New York,2-Jan-01,26-Jul-1788
+North Carolina,12-Mar-01,21-Nov-1789
+North Dakota,28-Aug-06,2-Nov-1889
+Ohio,11-Mar-02,1-Mar-1803
+Oklahoma,28-Jan-08,16-Nov-1907
+Oregon,6-Jun-05,14-Feb-1859
+Pennsylvania,8-Mar-99,12-Dec-1787
+Rhode Island,21-May-01,29-May-1790
+South Carolina,22-May-00,23-May-1788
+South Dakota,6-Nov-06,2-Nov-1889
+Tennessee,2-Jan-02,1-Jun-1796
+Texas,1-Jun-04,29-Dec-1845
+Utah,5-Nov-07,4-Jan-1896
+Vermont,6-Aug-01,4-Mar-1791
+Virginia,16-Oct-00,25-Jun-1788
+Washington,2-Apr-07,11-Nov-1889
+West Virginia,14-Oct-05,20-Jun-1863
+Wisconsin,25-Oct-04,29-May-1848
+Wyoming,4-Sep-07,10-Jul-1890
